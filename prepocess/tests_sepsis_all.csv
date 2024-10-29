@@ -1,0 +1,1256 @@
+,test_label,test_percent
+0,Glucose (70-105),61.8
+1,Potassium (3.5-5.3),61.8
+2,Sodium (135-148),61.75
+3,Hematocrit,61.64
+4,Chloride (100-112),61.59
+5,BUN (6-20),61.59
+6,Creatinine (0-1.3),61.59
+7,Hemoglobin,61.48
+8,Carbon Dioxide,61.48
+9,RBC,61.32
+10,Platelets,61.32
+11,"WBC (4-11,000)",61.32
+12,Heart Rate,61.0
+13,calprevflg,60.84
+14,Heart Rhythm,60.84
+15,Magnesium (1.6-2.6),60.84
+16,Respiratory Rate,60.79
+17,SpO2,60.74
+18,Ectopy Type,60.74
+19,Phosphorous(2.7-4.5),60.68
+20,Temperature F,60.68
+21,Temperature C (calc),60.63
+22,Temp. Site,60.63
+23,Respiratory Pattern,60.63
+24,Level of Conscious,60.63
+25,Verbal Response,60.58
+26,Eye Opening,60.58
+27,Orientation,60.58
+28,GCS Total,60.52
+29,LUL Lung Sounds,60.52
+30,Motor Response,60.52
+31,RLL Lung Sounds,60.52
+32,LLL Lung Sounds,60.52
+33,Calcium (8.4-10.2),60.52
+34,Ectopy Frequency,60.52
+35,RUL Lung Sounds,60.52
+36,Bowel Sounds,60.47
+37,Urine Source,60.47
+38,Oral Cavity,60.47
+39,Abdominal Assessment,60.42
+40,HOB,60.42
+41,Activity,60.36
+42,Skin Integrity,60.31
+43,Turn,60.2
+44,Braden Score,60.04
+45,Braden Frict/Shear,60.04
+46,Braden Nutrition,60.04
+47,Braden Moisture,60.04
+48,Braden Mobility,60.04
+49,Braden Activity,60.04
+50,Braden SensoryPercep,60.04
+51,Assistance Device,59.99
+52,NBP Mean,59.94
+53,NBP [Diastolic],59.94
+54,NBP [Systolic],59.94
+55,Activity Tolerance,59.88
+56,Position,59.83
+57,Code Status,59.4
+58,"WBC   (4-11,000)",59.4
+59,Precautions,59.19
+60,Pain Present,59.03
+61,Urine [Color],58.82
+62,Dorsal PedPulse [Right],58.34
+63,Dorsal PedPulse [Left],58.23
+64,Side Rails,58.18
+65,Pain Location,58.12
+66,Urine [Appearance],58.07
+67,Support Systems,57.33
+68,Service Type,57.11
+69,Behavior,56.31
+70,PostTib. Pulses [Right],56.15
+71,PostTib. Pulses [Left],56.1
+72,Diet Type,55.99
+73,O2 Delivery Device,55.73
+74,Riker-SAS Scale,55.3
+75,INR (2-4 ref. range),54.87
+76,PT(11-13.5),54.82
+77,PTT(22-35),54.61
+78,Pain Assess Method,54.4
+79,INV Line#1 [Type],53.54
+80,INV Line#1 [Site],53.33
+81,INV Line#1SiteAppear,53.06
+82,Family Communication,53.01
+83,O2 Flow (lpm),52.1
+84,Urine Out Foley,51.94
+85,Glucose,51.25
+86,Potassium,51.25
+87,IV #1 [Site],51.2
+88,Sodium,51.2
+89,BUN,51.04
+90,Creatinine,51.04
+91,Chloride,51.04
+92,IV Site Appear #1,50.99
+93,IV #1 [Size],50.93
+94,WBC,50.88
+95,Magnesium,50.77
+96,Phosphorous,50.61
+97,Calcium,50.56
+98,Back Care,50.35
+99,Skin Care,49.87
+100,Pain Type,49.6
+101,Previous WeightF,49.6
+102,Daily Weight,49.49
+103,Oral Care,49.49
+104,Daily Wake Up,49.12
+105,Restraint Location,48.96
+106,Alarms,48.8
+107,Parameters Checked,48.75
+108,Fingerstick Glucose,48.43
+109,Therapeutic Bed,48.16
+110,Procedures,47.74
+111,Lactic Acid(0.5-2.0),47.47
+112,Anti-Embolism [Device],47.36
+113,GI Prophylaxis [Drug #1],47.15
+114,INR,46.14
+115,PTT,46.08
+116,Significant Events,46.08
+117,PT,46.08
+118,Risk for Falls,45.6
+119,Previous Weight,44.06
+120,Lactic Acid,42.51
+121,Anti-Embolism [Status],41.56
+122,Differential-Basos,41.4
+123,HR Alarm [Low],41.4
+124,HR Alarm [High],41.4
+125,Differential-Eos,41.4
+126,Differential-Lymphs,41.4
+127,Differential-Monos,41.4
+128,Differential-Polys,41.4
+129,SpO2 Alarm [Low],41.13
+130,SpO2 Alarm [High],41.08
+131,Stool Guaiac,40.65
+132,NBP Alarm [Low],39.96
+133,NBP Alarm [High],39.96
+134,Resp Alarm [Low],39.9
+135,Resp Alarm [High],39.85
+136,Total Bili (0-1.5),39.69
+137,ALT,39.32
+138,Alk. Phosphate,39.26
+139,AST,39.26
+140,CVP,39.26
+141,Albumin (>3.2),39.1
+142,Arterial pH,38.2
+143,Pain Management [Route/Status #1],38.2
+144,Arterial PaO2,37.99
+145,Arterial CO2(Calc),37.99
+146,Arterial Base Excess,37.99
+147,Arterial PaCO2,37.93
+148,Education Topic #1,37.88
+149,Education Learner,37.67
+150,Radiologic Study,37.56
+151,Education Readiness,37.29
+152,CPK,36.97
+153,Art.pH,36.81
+154,Education Method,36.81
+155,Education Barrier,36.76
+156,INV#1 WaveformAppear,36.76
+157,INV Line#1 Zero/Cal,36.71
+158,IV #2 [Site],36.55
+159,Eye Care,36.55
+160,Foley,36.28
+161,IV Site Appear #2,36.17
+162,Education Response,36.17
+163,IV #2 [Size],36.07
+164,PainLevel Acceptable,35.59
+165,Weight Change,35.32
+166,LDH,35.27
+167,Education Handout,35.11
+168,Education Topic #2,34.2
+169,FiO2 Set,34.15
+170,Pain Cause,34.1
+171,INV Line#2 [Type],33.78
+172,INV Line#2 [Site],33.62
+173,Differential-Bands,33.56
+174,Stool Out Stool,33.56
+175,INV Line#2SiteAppear,33.51
+176,Total Bili,32.82
+177,Pain Level (Rest),32.55
+178,Pain Level,32.45
+179,Albumin,31.97
+180,Ionized Calcium,30.85
+181,Arterial BP [Systolic],30.1
+182,Arterial BP [Diastolic],29.94
+183,Arterial BP Mean,29.89
+184,Impaired Skin Site#1,29.89
+185,Stool [Color],29.68
+186,Stool [Consistency],29.36
+187,Sputum Source,29.36
+188,Sputum [Amount],29.14
+189,Position Change,29.09
+190,ImpSkin Treatment #1,28.45
+191,ImpSkin Character #1,28.4
+192,Circulation/SkinInt,28.29
+193,Sputum [Color],28.29
+194,Sputum Consistency,28.24
+195,Removed x 5 Mins,28.02
+196,Reason For Restraint,27.76
+197,Range of Motion,27.65
+198,Restraint Type,27.6
+199,Restraints Evaluated,27.44
+200,Resp Rate (Total),27.12
+201,Ventilator Mode,27.01
+202,Minute Volume(Obser),26.96
+203,Ventilator Type,26.96
+204,Airway Type,26.9
+205,PEEP Set,26.9
+206,Low Exhaled Min Vol,26.9
+207,High Insp. Pressure,26.9
+208,Mean Airway Pressure,26.8
+209,Sensitivity-Vent,26.69
+210,CPK/MB,26.64
+211,High Resp. Rate,26.53
+212,Readmit <48 hrs,26.43
+213,GI Intub #1 [Site],26.21
+214,GI Intub #1 [Type],26.21
+215,Amylase,26.11
+216,GI#1 Tube [Status],25.73
+217,Airway Size,25.63
+218,INV#2 WaveformAppear,25.57
+219,Inspired Gas Temp,25.47
+220,Tidal Volume (Obser),25.41
+221,Peak Insp. Pressure,25.31
+222,Respiratory Rate Set,25.25
+223,Tidal Volume (Set),25.25
+224,INV Line#2 Zero/Cal,25.2
+225,Resp Rate (Spont),25.2
+226,Waveform-Vent,25.04
+227,Compliance (40-60ml),25.04
+228,Vancomycin/Random,24.56
+229,Pressure Support,24.35
+230,ImpSkin Wound Base#1,24.29
+231,GI#1 Tube PlaceCheck,24.24
+232,CVP Alarm [Low],24.19
+233,Plateau Pressure,23.97
+234,CVP Alarm [High],23.87
+235,Pain Management [Route/Status #2],23.6
+236,Imp Skin Cleanse #1,23.44
+237,I:E Ratio,23.12
+238,Pupil Size [Right],22.91
+239,GI#1 Tube [Drain],22.8
+240,ETT [Mark],22.75
+241,Pupil Response [Right],22.7
+242,Pupil Response [Left],22.64
+243,Pupil Size [Left],22.59
+244,Tidal Volume (Spont),22.59
+245,Health Care Proxy,22.48
+246,ETT [Location],22.43
+247,Pain Level/Response,22.22
+248,Less Restrict Meas.,22.22
+249,Apnea Time Interval,22.06
+250,ImpSkin #1 [Drain],21.15
+251,SaO2,20.83
+252,Blood Products,20.67
+253,Follows Commands,20.25
+254,Stool Management,20.09
+255,Fibrinogen (150-400),19.98
+256,CaO2,19.13
+257,IV #1 Reason DC'D,18.75
+258,GI Tube #1 [Site],18.43
+259,RSBI (<200),18.11
+260,Spon. Vt (L) (Mech.),18.06
+261,Spon RR (Mech.),18.01
+262,ABP Alarm [Low],17.21
+263,ABP Alarm [High],17.16
+264,Fibrinogen,16.94
+265,RSBI (<100),16.94
+266,Skin Color,16.68
+267,PreSep Catheter SVO2,16.62
+268,Impaired Skin Site#2,16.3
+269,Ve High,16.3
+270,Mixed Venous O2% Sat,16.14
+271,Pre-Admission Output Pre-Admission Output,16.09
+272,Mixed Venous O2,15.98
+273,Venous pH,15.98
+274,ImpSkin Character #2,15.93
+275,Venous PvCO2,15.77
+276,Tank A psi.,15.66
+277,Tank B psi.,15.66
+278,Spontaneous Movement,15.5
+279,ImpSkin Treatment #2,15.45
+280,INV Line#3 [Type],15.34
+281,Venous PvO2,15.34
+282,INV Line#3 [Site],15.24
+283,Skin [Temperature],15.18
+284,Skin Condition,15.18
+285,INV Line#3SiteAppear,15.18
+286,Pre-Admission,14.54
+287,Micro-Neb Treatment,14.49
+288,Venous CO2(Calc),14.49
+289,BSA - Metric,14.17
+290,BSA - English,14.17
+291,RSBI Not Completed,13.85
+292,ETT Position Change,13.69
+293,ImpSkin Wound Base#2,13.16
+294,ImpSkin #1 [Amount],13.16
+295,Plateau-Off,12.31
+296,IV #3 [Site],12.09
+297,Imp Skin Cleanse #2,12.09
+298,IV #3 [Size],11.99
+299,ImpSkin #2 [Drain],11.93
+300,IV Site Appear #3,11.83
+301,Gag Reflex,11.83
+302,MDI #1 [Puff],11.67
+303,IV #2 Reason DC'D,11.67
+304,GI Prophylaxis [Drug #2],11.67
+305,Cough Reflex,11.61
+306,MDI #1 [Drug],11.51
+307,Pressure Sore Site#1,11.03
+308,PressSoreTreatment#1,10.92
+309,Responds to Stimuli [Type],10.87
+310,Pressure Sore #1 [Stage],10.71
+311,Responds to Stimuli [Value],10.66
+312,Cuff Pressure-Airway,10.55
+313,PressSoreWoundBase#1,10.55
+314,ImpSkin #1 [Width],10.39
+315,LL Strength/Movement,10.23
+316,RU Strength/Movement,10.23
+317,LU Strength/Movement,10.23
+318,RL Strength/Movement,10.18
+319,Pressure Sore #1 [Heal],9.91
+320,INV Line#3 Zero/Cal,9.86
+321,INV#3 WaveformAppear,9.86
+322,PressSoreCleansing#1,9.8
+323,Incision/Wound #1,9.64
+324,ImpSkin #1 [Length],9.54
+325,Inc #1 [Dressing],9.32
+326,D-Dimer (0-500),9.22
+327,Inc #1 [Drainage],9.22
+328,Inc #1 [Closure],9.16
+329,Pressure Sore #1 [Drainage],9.11
+330,Inc #1 [Appearance],8.95
+331,Pressure Sore Odor#1,8.63
+332,Inc #1 [Status],8.47
+333,Impaired Skin Site#3,8.2
+334,Urine Out Void,7.99
+335,ImpSkin Character #3,7.83
+336,Peak Flow,7.83
+337,ImpSkin Treatment #3,7.78
+338,Pt./Family Informed,7.78
+339,Insulin Guideline,7.73
+340,Nursing Consultation,7.62
+341,Warming [Device],7.57
+342,Warming [Status],7.57
+343,GU Catheter Size,7.51
+344,Cough Effort,7.51
+345,MDI #2 [Puff],7.41
+346,MDI #2 [Drug],7.35
+347,ImpSkin #2 [Amount],7.25
+348,Triglyceride (0-200),7.14
+349,Void,7.09
+350,Speech,7.03
+351,Direct Bili (0-0.3),7.03
+352,TF Residual,6.93
+353,D-Dimer,6.87
+354,Inc #1 [Amount],6.77
+355,Stool,6.71
+356,Cough Type,6.66
+357,Chest PT [Right],6.66
+358,Gastric Oral Gastric,6.66
+359,SvO2,6.61
+360,Pressure Sore #1 [Width],6.61
+361,Cough/Deep Breathe,6.55
+362,ImpSkin Wound Base#3,6.55
+363,Chest PT [Left],6.55
+364,Pressure Sore #1 [Length],6.5
+365,Respiratory Effort,6.45
+366,ImpSkin #2 [Width],6.45
+367,Communication,6.13
+368,ImpSkin #2 [Length],6.07
+369,Imp Skin Cleanse #3,6.07
+370,PressureReduceDevice,6.07
+371,Gastric Nasogastric,6.02
+372,GI [Guaiac],6.02
+373,ImpSkin #3 [Drain],5.97
+374,Direct Bili,5.86
+375,Untoward Effect,5.7
+376,INV Line#4 [Type],5.65
+377,INV Line#4 [Site],5.65
+378,INV Line#4SiteAppear,5.59
+379,Pressure Sore #1 [Amount],5.59
+380,SVR,5.43
+381,Edema #1 [Location],5.38
+382,Triglyceride,5.38
+383,O2 Delivery Device#2,5.27
+384,Trach Size,5.27
+385,Tracheostomy Type,5.27
+386,Vancomycin/Trough,5.22
+387,C.O. (fick),5.17
+388,Low Insp. Pressure,5.06
+389,Cuff Leak,5.06
+390,Tracheostomy Cuff,5.01
+391,Edema #1 [Amount],4.95
+392,PressSore Depth #1,4.9
+393,O2 Flow (lpm) #2,4.79
+394,Temperature F (calc),4.79
+395,Temperature C,4.79
+396,Trach [Cuff],4.69
+397,Trach [Fenestra],4.69
+398,Spiritual Support,4.64
+399,Trach Care,4.64
+400,Incentive Spirometry,4.53
+401,GI [pH],4.42
+402,Ultrafiltrate Ultrafiltrate,4.42
+403,PAP [Systolic],4.32
+404,PAP [Diastolic],4.32
+405,Swan SVO2,4.32
+406,Cardiac Index,4.26
+407,Inc Cleansing #1,4.21
+408,SVRI,4.21
+409,Troponin,4.21
+410,PAP Mean,4.16
+411,RLE [Temperature],4.1
+412,Gastric Emesis,4.1
+413,Digoxin,4.1
+414,RLE [Color],4.1
+415,Stroke Volume,4.1
+416,C.O.(thermodilution),4.1
+417,Uric Acid (2.7-7.0),4.05
+418,Seizure Activity,4.0
+419,PressSoreTreatment#2,4.0
+420,Press Sore Site #2,3.94
+421,SVI,3.89
+422,Gentamycin/Random,3.89
+423,LLE [Color],3.89
+424,LLE [Temp],3.89
+425,Serum Osmolality,3.89
+426,GI Intub #2 [Type],3.78
+427,RVSW,3.78
+428,Pressure Sore #2 [Stage],3.78
+429,GI Intub #2 [Site],3.78
+430,RCW,3.78
+431,PCWP,3.73
+432,GI#2 Tube [Status],3.73
+433,Oral Gastric,3.62
+434,ImpSkin #3 [Amount],3.62
+435,HOB Measurement,3.62
+436,PressSoreWoundBase#2,3.62
+437,Ostomy [Type],3.62
+438,LCW,3.57
+439,Inc #2 [Dressing],3.57
+440,LVSW,3.57
+441,RVSWI,3.57
+442,RCWI,3.57
+443,Incision/Wound #2,3.52
+444,Ostomy [Appearance],3.52
+445,Inc #2 [Drainage],3.46
+446,Ventilator No.,3.46
+447,LCWI,3.41
+448,Fecal Bag,3.41
+449,Pressure Sore #2 [Heal],3.41
+450,Inc #2 [Closure],3.41
+451,LVSWI,3.41
+452,Inc #2 [Status],3.36
+453,PressSoreCleansing#2,3.36
+454,Pressure Sore #2 [Drainage],3.36
+455,Impaired Skin Site#4,3.36
+456,Inc #2 [Appearance],3.36
+457,INV Line#4 Zero/Cal,3.3
+458,Cooling [Device],3.3
+459,INV#4 WaveformAppear,3.3
+460,Cooling [Status],3.25
+461,IV #3 Reason DC'D,3.25
+462,PVR,3.25
+463,Auto-PEEP Level,3.25
+464,PVRI,3.2
+465,ImpSkin Character #4,3.14
+466,ImpSkin Treatment #4,3.14
+467,IV Site Appear #4,3.09
+468,Nasogastric,3.09
+469,IV #4 [Size],3.09
+470,IV #4 [Site],3.09
+471,Pressure Sore Odor#2,3.04
+472,Stool Out Rectal Tube,3.04
+473,Sed Rate,2.98
+474,OR Out OR Urine,2.98
+475,ImpSkin Wound Base#4,2.98
+476,OR Out EBL,2.98
+477,Cholesterol (<200),2.93
+478,ImpSkin #4 [Drain],2.88
+479,Total Protein(6.5-8),2.88
+480,ImpSkin #3 [Width],2.82
+481,GI#2 Tube PlaceCheck,2.77
+482,ImpSkin #3 [Length],2.77
+483,Corneal Reflex [Left],2.72
+484,Imp Skin Cleanse #4,2.72
+485,Stool Out Fecal Bag,2.72
+486,Uric Acid,2.72
+487,Corneal Reflex [Right],2.72
+488,GI Tube #2 [Site],2.66
+489,Sedation Score,2.66
+490,Total PEEP Level,2.61
+491,GI#2 Tube [Drain],2.56
+492,LUE [Temp],2.56
+493,LUE [Color],2.56
+494,PAO2,2.5
+495,Inc #2 [Amount],2.5
+496,Pressure Sore #2 [Width],2.5
+497,Total Protein,2.5
+498,Ostomy (output),2.5
+499,Pressure Sore #2 [Length],2.45
+500,Neg Insp Force(>-25),2.45
+501,AaDO2,2.4
+502,O2AV,2.4
+503,Remote Alarm,2.34
+504,ROM [Type],2.34
+505,Cholesterol,2.29
+506,O2AVI,2.29
+507,Dilantin,2.29
+508,RUE [Temperature],2.24
+509,Flow-by Sensitivity,2.24
+510,Stool Out Colostomy,2.24
+511,Bladder Pressure,2.24
+512,Ramsey SedationScale,2.24
+513,OR Urine,2.24
+514,RUE [Color],2.24
+515,Neuro Symptoms,2.24
+516,Rectal Tube,2.18
+517,TF Residual Output,2.18
+518,Inc/Wound Packing #1,2.18
+519,ROM [Value],2.18
+520,Dialysis Access Site,2.18
+521,Gastric Gastric Tube,2.13
+522,Flow-By (lpm),2.13
+523,Radial Pulse [Left],2.13
+524,Radial Pulse [Right],2.13
+525,Dialysis Access Type,2.08
+526,Dialysis Type,2.08
+527,Dialysis Site Appear,2.02
+528,Dialysate Infusing,1.97
+529,CT #1 Dressing,1.92
+530,PAP Alarm [Low],1.92
+531,Replace Rate ml/hr,1.92
+532,Pressure Sore #2 [Amount],1.86
+533,Filter Pressure mmHg,1.86
+534,PAP Alarm [High],1.86
+535,Emesis,1.86
+536,Effluent Press mmHg,1.86
+537,Replace.Fluid Infuse,1.86
+538,Return Pressure mmHg,1.86
+539,Dialysate Flow ml/hr,1.86
+540,DO2I,1.86
+541,ImpSkin #4 [Amount],1.86
+542,Blood Flow ml/min,1.86
+543,CT #1 Drainage,1.81
+544,INV Line#5SiteAppear,1.81
+545,Inc Cleansing #2,1.81
+546,Access mmHg,1.81
+547,RUE [Sensation],1.81
+548,INV Line#5 [Site],1.76
+549,CT #1 Suction Amount,1.76
+550,PA line cm Mark,1.76
+551,CT #1 [Leak],1.76
+552,zzO2AV,1.76
+553,RLE [Sensation],1.76
+554,LUE [Sensation],1.76
+555,INV Line#5 [Type],1.76
+556,Tylenol,1.76
+557,CT #1 [Fluctuate],1.76
+558,PressSore Depth #2,1.7
+559,System Integrity,1.7
+560,Edema #2 [Location],1.7
+561,Chest Tube Site #1,1.7
+562,Flatus,1.7
+563,LLE [Sensation],1.7
+564,Current Goal,1.7
+565,DO2,1.7
+566,zzO2AVI,1.65
+567,Height of Bed,1.65
+568,Drain Out #1 Jackson Pratt,1.65
+569,Drain Out #1 Other,1.65
+570,Edema #2 [Amount],1.65
+571,Manual BP Mean(calc),1.6
+572,Drainage Bag,1.6
+573,FIO2 Alarm-Low,1.6
+574,QTc,1.6
+575,Manual BP [Systolic],1.6
+576,OR EBL,1.55
+577,Jackson Pratt #1,1.55
+578,Pressure Sore Site#3,1.55
+579,Incision/Wound #3,1.55
+580,Manual BP [Diastolic],1.55
+581,Inc #3 [Drainage],1.49
+582,Inc #3 [Dressing],1.49
+583,PressSoreTreatment#3,1.49
+584,PT Splint #1 [Status],1.44
+585,TCPCV Insp. Pressure,1.44
+586,Ethanol,1.44
+587,Impaired Skin Site#5,1.44
+588,PT Splint #1 [Location],1.44
+589,Inc #3 [Status],1.44
+590,TCPCV I:E Ratio,1.44
+591,ImpSkin Character #5,1.39
+592,PCA 1 Hr Limit (mg),1.39
+593,TCPCV Insp. Time,1.39
+594,BIPAP - EPAP,1.39
+595,Gastric Tube,1.39
+596,Hourly PFR,1.39
+597,PCA Dose,1.39
+598,ImpSkin #4 [Width],1.39
+599,TCPCV-MAP,1.39
+600,PCA Lockout (Min),1.39
+601,PCA Medication,1.39
+602,ImpSkin #4 [Length],1.33
+603,CT #1 Crepitus,1.33
+604,ImpSkin Treatment #5,1.33
+605,Minute Volume (Set),1.33
+606,Gentamycin/Trough,1.33
+607,BIPAP-Mode,1.28
+608,Rec. Breath Pressure,1.28
+609,Rec.Breath Time(sec),1.28
+610,Sitter,1.28
+611,TCPCV Fixed I Time,1.28
+612,Dialysis Machine,1.28
+613,Recruit Breath,1.28
+614,Pressure Sore #3 [Stage],1.28
+615,Patient controlled analgesia (PCA) [Attempt],1.28
+616,PressSoreWoundBase#3,1.28
+617,Patient controlled analgesia (PCA) [Inject],1.28
+618,Ostomy Care,1.28
+619,Pressure Sore #3 [Heal],1.23
+620,Pressure Sore Odor#3,1.23
+621,MDI #3 [Puff],1.23
+622,MDI #3 [Drug],1.23
+623,PCA Total Dose,1.23
+624,Pressure Sore #3 [Drainage],1.23
+625,Angio Site #1,1.17
+626,Capillary Refill [Right],1.17
+627,Capillary Refill [Left],1.17
+628,BIPAP - O2 lpm,1.17
+629,Stool Out Ileostomy,1.17
+630,Initials (2 RNs) [RN #1],1.17
+631,Angio Appearance #1 [Attribute 1],1.17
+632,Med Wasted [Drug],1.12
+633,BIPAP - IPAP,1.12
+634,ImpSkin #5 [Drain],1.12
+635,Angio Dressing #1,1.12
+636,Inc #3 [Closure],1.12
+637,ImpSkin Wound Base#5,1.12
+638,Med Wasted [Amount],1.12
+639,PressSoreCleansing#3,1.12
+640,Cartridge/Bag Change,1.07
+641,Anxiety,1.07
+642,TOF Response/Twitch,1.07
+643,Inc #3 [Appearance],1.07
+644,Nausea and Vomiting,1.07
+645,FiO2 (Analyzed),1.07
+646,Initials (2 RNs) [RN #2],1.07
+647,Inc #3 [Amount],1.07
+648,Tremor,1.01
+649,Working Pressure,1.01
+650,Pressure Sore #3 [Length],1.01
+651,Auditory Disturbance,1.01
+652,Chest Tube #1,1.01
+653,Imp Skin Cleanse #5,1.01
+654,Paroxysmal Sweats,1.01
+655,Pressure Sore #3 [Width],1.01
+656,Tactile Disturbances,0.96
+657,Vancomycin/Peak,0.96
+658,Aggitation,0.96
+659,Visual Disturbances,0.96
+660,Orient/Clouding Sens,0.96
+661,Pacemaker Type,0.96
+662,Angio Appearance #1 [Attribute 2],0.96
+663,FIO2 Alarm-High,0.96
+664,INV Line#5 Zero/Cal,0.96
+665,INV#5 WaveformAppear,0.96
+666,IV #4 Reason DC'D,0.96
+667,Headache,0.96
+668,CIWA Sum Total,0.96
+669,Nerve Stimulated,0.91
+670,Drain Out #1 Pigtail,0.91
+671,Tap,0.91
+672,Peak Flow (Calc),0.91
+673,PCA Basal Rate,0.91
+674,Pacemaker Mode,0.91
+675,R Nephrostomy,0.91
+676,Seizure Duration,0.91
+677,Baseline Current/mA,0.91
+678,Chest Tubes Right Pleural 1,0.91
+679,Chest Tube Site #2,0.91
+680,Stool Out (non-specific),0.91
+681,Urine Out Incontinent,0.85
+682,% Inspir. Time,0.85
+683,L Nephrostomy,0.85
+684,Pigtail #1,0.8
+685,Gentamycin/Peak,0.8
+686,Emesis [Appearance],0.8
+687,FK506,0.8
+688,PT Splint #2 [Status],0.8
+689,PT Splint #2 [Location],0.8
+690,Pause Time %,0.8
+691,Pacer Rate,0.8
+692,PCA Bolus,0.8
+693,CT #2 [Fluctuate],0.75
+694,CT #2 Drainage,0.75
+695,Slurred Speech,0.75
+696,Inc/Wound Packing #2,0.75
+697,CT #2 [Leak],0.75
+698,Pressure Sore #3 [Amount],0.75
+699,Ectopy Type 2,0.75
+700,Ectopy Frequency 2,0.75
+701,Drain Out #1 Wound Vac,0.75
+702,Drowsiness,0.75
+703,NMB Medication,0.75
+704,CT #2 Dressing,0.69
+705,Ataxia,0.69
+706,Urine Out Rt Nephrostomy,0.69
+707,CT #2 Suction Amount,0.69
+708,Vital Cap (>1.0)L,0.69
+709,Sustained Nystamus,0.69
+710,Suprapubic,0.69
+711,Seizure,0.69
+712,Tobramycin/Random,0.69
+713,Inc #4 [Status],0.64
+714,Incision/Wound #4,0.64
+715,ImpSkin #5 [Amount],0.64
+716,PACU Out PACU Urine,0.64
+717,Bladder Irrigation,0.64
+718,Inc #4 [Dressing],0.64
+719,Gastric Jejunostomy Tube,0.64
+720,Condom Cath,0.64
+721,Inc #4 [Drainage],0.64
+722,Insomnia,0.64
+723,Inc Cleansing #3,0.64
+724,BIPAP - BPM,0.64
+725,GU Irrigant Volume In,0.59
+726,Cervical Collar Type,0.59
+727,Cerv Collar Status,0.59
+728,Collar Care,0.53
+729,Heparin Dose,0.53
+730,Drain Out #2 Other,0.53
+731,Cyclosporin,0.53
+732,Urine Out Suprapubic,0.53
+733,Stool Out Other,0.53
+734,CT #2 Crepitus,0.53
+735,OR Out PACU Urine,0.53
+736,Wound Vac #1,0.53
+737,Spare Trach Present,0.53
+738,JP Medial,0.48
+739,Alarms Activated,0.48
+740,Drain Out #2 Jackson Pratt,0.48
+741,Ventricular Pacemaker [Capture],0.48
+742,GU Irrigant/Urine Volume Out,0.48
+743,PressSore Depth #3,0.48
+744,Femoral Pulse [Right],0.48
+745,Heart Sounds,0.48
+746,Ventricular Pacemaker [Sense],0.48
+747,Urine Out Condom Cath,0.48
+748,T Tube,0.43
+749,INV Line#6SiteAppear,0.43
+750,Inc #4 [Appearance],0.43
+751,INV Line#6 [Site],0.43
+752,Popliteal Pulse [Right],0.43
+753,INV Line#6 [Type],0.43
+754,Inc #4 [Closure],0.43
+755,Urine Out Lt Nephrostomy,0.43
+756,ImpSkin #5 [Length],0.43
+757,Popliteal Pulse [Left],0.43
+758,Urine Out Straight Cath,0.43
+759,Minimal Leak Present,0.43
+760,Drain Out #1 Rt Nephrostomy,0.43
+761,Ileoconduit,0.43
+762,Femoral Pulse [Left],0.43
+763,Chest Tubes CTICU CT 1,0.43
+764,ImpSkin #5 [Width],0.43
+765,Chest Tubes Left Pleural 1,0.43
+766,PCV Set Insp. Press,0.37
+767,ART Lumen Volume,0.37
+768,Chest Tubes Right Pleural 2,0.37
+769,VEN Lumen Volume,0.37
+770,Impaired Skin Site#6,0.37
+771,Vd/Vt Ratio (40-60%),0.37
+772,CT #3 Dressing,0.37
+773,CvO2,0.37
+774,Drain Out #1 Hemovac,0.32
+775,Vision FiO2,0.32
+776,Low Exhaled Vt,0.32
+777,Imp Skin Cleanse #6,0.32
+778,Pacer Wire Condition,0.32
+779,Vision - Mode,0.32
+780,Doppler BP,0.32
+781,CT #3 Suction Amount,0.32
+782,CT #3 [Fluctuate],0.32
+783,CT #3 [Leak],0.32
+784,CT #3 Drainage,0.32
+785,ImpSkin Treatment #6,0.32
+786,Drain Out #2 Pigtail,0.32
+787,Vision - EPAP,0.32
+788,ImpSkin Character #6,0.32
+789,Jackson Pratt #2,0.32
+790,Chest Tube Site #3,0.32
+791,Arterial BP #2 [Diastolic],0.32
+792,Inc/Wound Packing #3,0.32
+793,Arterial BP #2 [Systolic],0.32
+794,Arterial BP Mean #2,0.32
+795,Hemovac #1,0.32
+796,BIPAP - Est. Vt,0.32
+797,ImpSkin Wound Base#6,0.32
+798,Drain Out #3 Jackson Pratt,0.32
+799,Pacer Wires Vent,0.32
+800,ImpSkin #6 [Drain],0.32
+801,Pacer Wires Atrial,0.27
+802,Inc #4 [Amount],0.27
+803,Vision Rate,0.27
+804,ImpSkin #6 [Amount],0.27
+805,Straight Cath,0.27
+806,Vision Mask,0.27
+807,Orthostat BP sitting [Systolic],0.27
+808,Tobramycin/Trough,0.27
+809,Drain Out #1 JP Medial,0.27
+810,Drain Out #1 Tap,0.27
+811,thoracentesis,0.27
+812,Urine Out IleoConduit,0.27
+813,Urine Out Other,0.27
+814,Atrial Pacemaker [Capture],0.27
+815,Atrial Pacemaker [Sense],0.27
+816,JP Lateral,0.27
+817,Vision - IPAP,0.27
+818,Orthostat BP sitting [Diastolic],0.27
+819,Orthostat HR sitting,0.27
+820,GI Tube #3 [Status],0.27
+821,TCPCV Apnea Settings,0.27
+822,GI#3 Intub Site,0.27
+823,GI#3 tube PlaceCheck,0.27
+824,GI Tube #3 [Drain],0.21
+825,Atrial Pacemaker [Sensitivity],0.21
+826,Atrial Pacemaker [mA],0.21
+827,AvDO2,0.21
+828,Ventricular Pacemaker [Sensitivity],0.21
+829,Drain Out #1 T Tube,0.21
+830,Drain Out #1 Jejunostomy Tube,0.21
+831,Ventricular Pacemaker [mA],0.21
+832,INV#6 WaveformAppear,0.21
+833,Drain Out #2 Wound Vac,0.21
+834,Inc #5 [Status],0.21
+835,Low Peep,0.21
+836,avDO2,0.21
+837,ACT (102-142),0.21
+838,Inc Cleansing #4,0.21
+839,Inc #5 [Dressing],0.21
+840,Thrombin (16-21),0.21
+841,L Pleural #1,0.21
+842,PACU Out PACU NG,0.21
+843,PACU Out PACU Drains,0.21
+844,ImpSkin #6 [Width],0.21
+845,KneeImmobilizeLoc [Right],0.21
+846,ACT,0.21
+847,O2ER,0.21
+848,Anterior Fontanelle [Texture],0.16
+849,Bruising [Existence],0.16
+850,Enteral In for Calc.,0.16
+851,Environment,0.16
+852,Chest Tube #2,0.16
+853,Environmental Interv,0.16
+854,Abdominal Exam,0.16
+855,Chest Tubes Other,0.16
+856,Fluid In for Calc.,0.16
+857,OG/NG Residual,0.16
+858,Temp Axillary [F],0.16
+859,Spits,0.16
+860,Turgor,0.16
+861,Bruising [Location],0.16
+862,Jejunostomy,0.16
+863,Breast Assessment,0.16
+864,VO2,0.16
+865,VO2I,0.16
+866,Breath Sounds [L],0.16
+867,Birth Weight    (kg),0.16
+868,Breath Sounds [R],0.16
+869,Feeding Tube Type,0.16
+870,Feeding Label Match,0.16
+871,Feeding Tube Check,0.16
+872,Spont. Resp. Rate,0.16
+873,R Pleural #1,0.16
+874,Feeding Tube Loc,0.16
+875,Boundaries,0.16
+876,Water Pillow,0.16
+877,L&D bands(s) on,0.16
+878,BehavioralIntervent,0.16
+879,BP Cuff [Systolic],0.16
+880,Mom in to Visit,0.16
+881,Mom held Infant,0.16
+882,Retractions,0.16
+883,Bag and Mask Present,0.16
+884,Time at Breast,0.16
+885,Skeletal Abnormality,0.16
+886,Total Fluids/kg/day,0.16
+887,SaO2 Alarm [High],0.16
+888,SaO2 Alarm [Low],0.16
+889,Atrial Pacemaker Sense [mA],0.16
+890,Atrial Pacemaker Sense [mV],0.16
+891,wound drainage,0.16
+892,Total Fluids cc/kg/d,0.16
+893,Day of Life,0.16
+894,Moro Reflex,0.16
+895,Respiratory Support,0.16
+896,Color (Overall),0.16
+897,BP Cuff [Mean],0.16
+898,OrthostatBP standing [Systolic],0.16
+899,BP Cuff [Diastolic],0.16
+900,NICU Procedures,0.16
+901,Thrombin,0.16
+902,Drain Out #4 Jackson Pratt,0.16
+903,NG Tube Taped at:,0.16
+904,Latch On,0.16
+905,Muscle Tone,0.16
+906,Atr Sens Thresh mV,0.16
+907,Length Calc Inches,0.16
+908,Resp Rate,0.16
+909,Length in cm,0.16
+910,Lesions,0.16
+911,Muscular Abnormality,0.16
+912,OrthostatBP standing [Diastolic],0.16
+913,Anterior Fontanelle [Shape],0.16
+914,OrthostatHR standing,0.16
+915,Capillary Refill,0.16
+916,Weight Change  (gms),0.16
+917,Inc #5 [Amount],0.16
+918,INV Line#7SiteAppear,0.16
+919,INV Line#7 [Type],0.16
+920,Posterior Fontanelle [Shape],0.16
+921,Posterior Fontanelle [Texture],0.16
+922,INV Line#7 [Site],0.16
+923,Inc #5 [Appearance],0.16
+924,PD out,0.16
+925,Inc #5 [Closure],0.16
+926,Inc #5 [Drainage],0.16
+927,INV Line#6 Zero/Cal,0.16
+928,Present Weight  (kg),0.16
+929,Present Weight  (lb),0.16
+930,Present Weight  (oz),0.16
+931,Previous Weight (kg),0.16
+932,Pain,0.16
+933,Suck Reflex,0.16
+934,ImpSkin #6 [Length],0.16
+935,Paracentesis,0.16
+936,Abdominal Girth (cm),0.16
+937,IV Site #1,0.16
+938,Peripheral Pulses,0.16
+939,Abdominal Loops,0.16
+940,Phenobarbital,0.16
+941,Stress,0.16
+942,Sheepskin,0.16
+943,Physioregulation,0.16
+944,Abdominal Color,0.16
+945,Pigtail #2,0.16
+946,Parent Info given,0.16
+947,Abdominal Appearance,0.16
+948,Stool [Amount],0.16
+949,Parent Called,0.16
+950,IV #1 [Location],0.16
+951,Work of Breathing,0.16
+952,ID band(s) on,0.16
+953,Dad in to visit,0.16
+954,State Screen Sample,0.16
+955,Incision/Wound #5,0.16
+956,Total Enteral/kg/day,0.16
+957,Glucometer,0.16
+958,Gestational Age,0.16
+959,Traction/Immobile #1,0.16
+960,Ampicillin,0.16
+961,Stool Hemoccult,0.16
+962,Head Circ       (cm),0.16
+963,Cardiac Murmur,0.16
+964,PACU Urine,0.16
+965,Sx Equip Functioning,0.16
+966,CT #3 Crepitus,0.16
+967,Gentamicin,0.16
+968,State,0.16
+969,Indirect Bili(0-1.0),0.16
+970,Sutures,0.16
+971,Alarms Checked,0.16
+972,PCV Exh Vt (Obser),0.16
+973,Infant Position,0.16
+974,Infant's Behavior,0.16
+975,Orthostatic HR lying,0.16
+976,Tract/Imm Location#1,0.16
+977,Glucose Monitor #,0.16
+978,Cont.Nebulizer(Drug),0.11
+979,Chest Tubes CTICU CT 2,0.11
+980,Stimulation,0.11
+981,Tobramycin/Peak,0.11
+982,BAEDP,0.11
+983,Stool Out Ostomy,0.11
+984,Color Change,0.11
+985,Ulnar Pulse [Left],0.11
+986,Transcut Pad Place,0.11
+987,Chloride  (100-112),0.11
+988,Temp/Iso/Warmer [Type],0.11
+989,"Temp/Iso/Warmer [Temperature, degrees C]",0.11
+990,Sodium  (135-148),0.11
+991,Temp Skin [C],0.11
+992,Temp Rectal [F],0.11
+993,Cerebral Ventricular #1,0.11
+994,Cobedding,0.11
+995,Ulnar Pulse [Right],0.11
+996,Chest Tubes Mediastinal,0.11
+997,Augmented Diastole,0.11
+998,Theophylline,0.11
+999,Systolic Unloading,0.11
+1000,Behavioral State,0.11
+1001,Angio Appearance #2 [Attribute 1],0.11
+1002,Pain Level (Movemnt),0.11
+1003,Angio Appearance #2 [Attribute 2],0.11
+1004,Vent Stim Thresh mA,0.11
+1005,Grandparents Visit,0.11
+1006,Ventricular Pacemaker Sense [mA],0.11
+1007,Ventricular Pacemaker Sense [mV],0.11
+1008,Ventricular Pacemaker Threshold [Unit],0.11
+1009,Hemodialysis,0.11
+1010,Ventricular Pacemaker Threshold [Value],0.11
+1011,IABP Mean,0.11
+1012,IABP setting,0.11
+1013,Potassium  (3.5-5.3),0.11
+1014,IV Drip Dose #1,0.11
+1015,Additional Gas(Mask),0.11
+1016,Additional Gas (lpm),0.11
+1017,IV Drip Medication#1,0.11
+1018,Dad held infant,0.11
+1019,Wound Vac #2,0.11
+1020,abd tap,0.11
+1021,Inc/Wound Packing #4,0.11
+1022,Orthostatic BP lying [Systolic],0.11
+1023,Orthostatic BP lying [Diastolic],0.11
+1024,InterventionAssess,0.11
+1025,hemodialysis,0.11
+1026,KneeImmobilizeLoc [Left],0.11
+1027,O2 Administration,0.11
+1028,paracentesis,0.11
+1029,L Ureteral Stent,0.11
+1030,Murmur Intensity,0.11
+1031,Lowest Heart Rate,0.11
+1032,Lowest SaO2,0.11
+1033,Vent Sens Thresh mV,0.11
+1034,Total CO2,0.11
+1035,Angio Dressing #2,0.11
+1036,Epidural Location,0.11
+1037,Dialysis out,0.11
+1038,Diastolic Unloading,0.11
+1039,Urine .,0.11
+1040,Drain Out #1 Lt Nephrostomy,0.11
+1041,Atr Stim Thresh mA,0.11
+1042,Drain Out #2 JP Lateral,0.11
+1043,Drain Out #2 T Tube,0.11
+1044,Angio Site #2,0.11
+1045,Drain Out #3 Pigtail,0.11
+1046,Drain Out #3 Sump,0.11
+1047,Related Activity,0.11
+1048,Drain Out #4 Pigtail,0.11
+1049,Assisted Systole,0.11
+1050,Epidural Appearance,0.11
+1051,Drain Out #3 Other,0.11
+1052,R Ureteral Stent,0.11
+1053,Apnea [Existence],0.11
+1054,Anion Gap   (8-20),0.11
+1055,Feeding Tube Size,0.11
+1056,Pulses Paradoxus,0.11
+1057,FeSO4,0.11
+1058,VCO2 (180-200),0.11
+1059,peg,0.05
+1060,pCO2 (cap),0.05
+1061,pCO2 (other),0.05
+1062,pH (cap),0.05
+1063,pO2 (cap),0.05
+1064,pO2 (other),0.05
+1065,Analgesic,0.05
+1066,paracentesis out,0.05
+1067,paracentesis site,0.05
+1068,ph (other),0.05
+1069,True Urine,0.05
+1070,pleural tap,0.05
+1071,rectal tube,0.05
+1072,right arm pouch,0.05
+1073,right hand drainage,0.05
+1074,ultrafiltrate in,0.05
+1075,ultrafiltrate out,0.05
+1076,Atrial Pacemaker Threshold [Unit],0.05
+1077,vac drain,0.05
+1078,vomitus,0.05
+1079,wound drain,0.05
+1080,wound pouch,0.05
+1081,ostomy,0.05
+1082,VAC output,0.05
+1083,nephrost tube flush,0.05
+1084,VAD Beat Rate [Right],0.05
+1085,VAC DRAINAGE,0.05
+1086,WBC 4.0-11.0,0.05
+1087,Vitamin K,0.05
+1088,WhiteBloodC 4.0-11.0,0.05
+1089,Transcut Pacer Rate,0.05
+1090,Urine Out Ureteral Stent #1,0.05
+1091,VAD Beat Rate [Left],0.05
+1092,cardiac output,0.05
+1093,chest tube,0.05
+1094,dialysis,0.05
+1095,dialysis in,0.05
+1096,diayalsis out.,0.05
+1097,Airway,0.05
+1098,drain #2 other,0.05
+1099,epi. of stool incont,0.05
+1100,er urine out,0.05
+1101,Transcutan Pacer,0.05
+1102,farr 10 out,0.05
+1103,farr 2 output,0.05
+1104,farr7-output/urine,0.05
+1105,BANDS,0.05
+1106,BASOs,0.05
+1107,ileostomy,0.05
+1108,left thoracentesis,0.05
+1109,Atrial Pacemaker Threshold [Value],0.05
+1110,MUCOUS FISTULA,0.05
+1111,Bands,0.05
+1112,Base Excess (cap),0.05
+1113,IV Drip Medication#2,0.05
+1114,IV Site #2,0.05
+1115,Parent Ed/Support,0.05
+1116,Pacer Wires Ground,0.05
+1117,PLEURAL FLUID,0.05
+1118,Inc #6 [Amount],0.05
+1119,PEEP Alarm,0.05
+1120,PEEP,0.05
+1121,Inc #6 [Appearance],0.05
+1122,PCV Insp Vt (Obser),0.05
+1123,Inc #6 [Closure],0.05
+1124,Inc #6 [Drainage],0.05
+1125,Inc #6 [Dressing],0.05
+1126,Inc #6 [Status],0.05
+1127,Inc Cleansing #5,0.05
+1128,Pericard Drain Site,0.05
+1129,Pericardial,0.05
+1130,Pericardial Drainage,0.05
+1131,Position at Breast,0.05
+1132,High Pressure Relief,0.05
+1133,Humidity Temp [Meas],0.05
+1134,I:E Ratio-TCPCV,0.05
+1135,ICP,0.05
+1136,ICP Alarm [Low],0.05
+1137,INV Line#7 Zero/Cal,0.05
+1138,INV#7 WaveformAppear,0.05
+1139,PetCO2/TcCO2,0.05
+1140,Polys,0.05
+1141,Pleuracentesis,0.05
+1142,Platelet  (150-440),0.05
+1143,IV #2 [Location],0.05
+1144,Pin Care,0.05
+1145,IV Drip Dose #2,0.05
+1146,Inc Cleansing #6,0.05
+1147,PACU Out EBL,0.05
+1148,PACU EBL,0.05
+1149,Monos,0.05
+1150,LVAD Flow LPM,0.05
+1151,Narcotic Analgesic,0.05
+1152,NGT,0.05
+1153,NEUTS,0.05
+1154,LYMPHS,0.05
+1155,Lipase,0.05
+1156,Mode,0.05
+1157,Nep Tube #1 flush,0.05
+1158,Minute Volume,0.05
+1159,Lumbar Puncture,0.05
+1160,Mediastinal,0.05
+1161,Lymphs,0.05
+1162,MONOs,0.05
+1163,Mech. Minute Volume,0.05
+1164,LEFT JP,0.05
+1165,Neph tube #2 flush,0.05
+1166,PACU Drains,0.05
+1167,(R)Nephrostomy flush,0.05
+1168,Incision/Wound #6,0.05
+1169,JP #1 & #2 to CLWS,0.05
+1170,JP 1,0.05
+1171,JP 2,0.05
+1172,JP#1&2 to CLWS,0.05
+1173,Jackson Pratt #3,0.05
+1174,O2 Analyzer Cal,0.05
+1175,Neuro Drain Drainage,0.05
+1176,Nipple Type,0.05
+1177,L Pleural #2,0.05
+1178,Neuro Drain [Location],0.05
+1179,Neuro Drain [Level],0.05
+1180,Neuro Drain Type,0.05
+1181,Neuro Drain Status,0.05
+1182,Heptavax,0.05
+1183,Hemovac #2,0.05
+1184,Hemoptysis,0.05
+1185,DIALYSIS REMOVED,0.05
+1186,Spont. Tidal Volume,0.05
+1187,Spon Minute VE L/min,0.05
+1188,Chest Tubes Left Pleural 2,0.05
+1189,Chest X-Ray,0.05
+1190,Citrate - dialysis,0.05
+1191,Skin Integrity [Attribute #1],0.05
+1192,Dialysis Out,0.05
+1193,Cecostomy,0.05
+1194,Sedation,0.05
+1195,Dialysis.,0.05
+1196,Drain Out #1 Davol,0.05
+1197,Drain Out #1 JP Lateral,0.05
+1198,Drain Out #1 Pericardial,0.05
+1199,Drain Out #2 Lt Nephrostomy,0.05
+1200,Cerebral Drain L Ventricular Drain,0.05
+1201,Cath Lab,0.05
+1202,Red Blood C(3.6-6.2),0.05
+1203,CALCIUM-DIALYSIS,0.05
+1204,Base Excess (other),0.05
+1205,Basos,0.05
+1206,Tidal Volume,0.05
+1207,Thoracentesis,0.05
+1208,Brachial Pulse [Left],0.05
+1209,Brachial Pulse [Right],0.05
+1210,CPM,0.05
+1211,Car Safety Seat Screen [Result],0.05
+1212,CPP,0.05
+1213,TCO2 (other),0.05
+1214,TCO2 (cap),0.05
+1215,Sump drains 1&2,0.05
+1216,Sump #1,0.05
+1217,Car Safety Seat Screen [Remark],0.05
+1218,Mean PAW [Meas],0.05
+1219,Drain Out #3 T Tube,0.05
+1220,Hemodialysis removal,0.05
+1221,Gentamicin Post 5-10,0.05
+1222,Flowrate (l/m),0.05
+1223,Prong Size,0.05
+1224,Procedure urine out,0.05
+1225,Procan Napa,0.05
+1226,Procan,0.05
+1227,Gastric Other,0.05
+1228,Gentamicin Pre (0-2),0.05
+1229,RBC(3.6-6.2),0.05
+1230,Graft/Flap Pulse,0.05
+1231,HD out,0.05
+1232,HD output,0.05
+1233,HGB  (10.8-15.8),0.05
+1234,Head US,0.05
+1235,Hematocrit (35-51),0.05
+1236,R ARM DRAINAGE BAG,0.05
+1237,RIGHT JP,0.05
+1238,Drain Out #4 Other,0.05
+1239,Eosinophils,0.05
+1240,Drain Out #4 Wound Vac,0.05
+1241,Drain Out #5 Other,0.05
+1242,Drain Out #6 Other,0.05
+1243,EMESIS,0.05
+1244,ER URINR OUTPUT,0.05
+1245,RVAD Flow LPM,0.05
+1246,Epi Infusion Rate,0.05
+1247,FIO2 [Meas],0.05
+1248,Epidural Medication,0.05
+1249,Epidural Total Dose,0.05
+1250,Erythromycin Oint.,0.05
+1251,FIO2,0.05
+1252,FIO2 Alarm [High],0.05
+1253,FIO2 Alarm [Low],0.05
+1254,KCL-10 MEQ-DIALYSIS,0.05
